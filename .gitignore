@@ -1,0 +1,16 @@
+/target/
+/.apt_generated/
+/.settings/
+/.classpath
+/.factorypath
+/.project
+/.springBeans
+/.DS_Store
+/doc
+*.iml
+/.idea
+.idea
+/.gradle
+.log
+build/*/**
+.DS_Store

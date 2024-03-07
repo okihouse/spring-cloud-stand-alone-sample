@@ -1,0 +1,7 @@
+logging:
+  config: classpath:logback.xml
+
+spring:
+  cloud:
+    function:
+      definition: uppercase
